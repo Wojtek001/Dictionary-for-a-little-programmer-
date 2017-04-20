@@ -1,0 +1,15 @@
+FUNCTION,"is a block of organized, reusable code that is used to perform a single, related action.",https://www.tutorialspoint.com/python/python_functions.htm
+PARAMETER,is a named entity in a function (or method) definition that specifies an argument that the function can accept,https://docs.python.org/2/glossary.html#term-parameter
+VARIABLE,are nothing but reserved memory locations to store values. This means that when you create a variable you reserve some space in memory,https://www.tutorialspoint.com/python/python_variable_types.htm
+ARGUMENT,a value passed to a function when calling the function,https://docs.python.org/2/glossary.html
+DICTIONARY,"is a way to store data just like a list, but instead of using only numbers to get the data, you can use almost anything",https://learnpythonthehardway.org/book/ex39.html
+TUPLE,is a sequence of immutable Python objects,https://www.tutorialspoint.com/python/python_tuples.htm
+ASCII TABLE,"is a character encoding standard, ASCII codes represent text in computers and other devices",https://en.wikipedia.org/wiki/ASCII
+MODULE,is a file containing Python definitions and statements,https://docs.python.org/3/tutorial/modules.html
+STRING,"is simply a list of characters in order. A character is anything you can type on the keyboard in one keystroke, like a letter, a number, or a backslash",https://en.wikibooks.org/wiki/Python_Programming/Variables_and_Strings
+GIT,"is a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for software development, but it can be used to keep track of changes in any files.",https://en.wikipedia.org/wiki/Git
+VERSION CONTROL,"is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the ""revision number"", ""revision level"", or simply ""revision""",https://en.wikipedia.org/wiki/Version_control
+LIST,"Is a list of values. Each one of them is numbered, starting from zero - the first one is numbered zero, the second 1, the third 2, etc. You can remove values from the list, and add new values to the end",http://sthurlow.com/python/lesson06/
+LOOP,allows us to execute a statement or group of statements multiple times,https://www.tutorialspoint.com/python/python_loops.htm
+WHILE LOOP,repeats a statement or group of statements while a given condition is TRUE. It tests the condition before executing the loop body,https://www.tutorialspoint.com/python/python_loops.htm
+FOR LOOP,executes a sequence of statements multiple times and abbreviates the code that manages the loop variable,https://www.tutorialspoint.com/python/python_loops.htm
